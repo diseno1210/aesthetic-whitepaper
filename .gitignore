@@ -1,0 +1,9 @@
+*.mp4
+*.wav
+*.mp3
+*.m4a
+*.mov
+*.webm
+*.pdf
+_source/
+node_modules/
